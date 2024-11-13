@@ -1,12 +1,12 @@
-## Hi there 👋
+# 🌞 SolarSync: Conectando Pessoas à Energia do Futuro
 
-<!--
+![SolarSync Banner](../cover.png)
 
-**Here are some ideas to get you started:**
+**Bem-vindo ao GitHub da SolarSync!** Somos uma plataforma intermediadora que conecta clientes e fornecedores de soluções em energia solar, promovendo a sustentabilidade e o acesso à energia limpa. Nosso objetivo é simplificar o processo de escolha, instalação e manutenção de sistemas solares, facilitando a transição para uma matriz energética mais verde e eficiente.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## O que oferecemos:
+- Conexão direta entre clientes e fornecedores de energia solar.
+- Ferramentas de monitoramento e otimização de sistemas solares.
+- Soluções financeiras acessíveis para tornar a energia solar uma realidade para mais pessoas.
+
+Com a SolarSync, acreditamos que o futuro da energia é sustentável, acessível e conectado. Junte-se a nós nesta jornada rumo a um planeta mais sustentável! 🌍✨
